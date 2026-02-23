@@ -4,7 +4,6 @@
 Task Creator is a scalable full-stack web application that allows users to register, login securely using JWT authentication, and manage tasks with full CRUD functionality.
 
 The application demonstrates frontend-backend integration, secure authentication, protected routes, and scalable architecture.
-
 ---
 
 ## ✨ Features
